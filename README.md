@@ -20,6 +20,7 @@ import sys
 import os
 # se preferisci leggere e scrivere da file
 # ti basta decommentare le seguenti due righe:
+
 sys.stdin = open('fossili_input01.txt')
 sys.stdout = open('output.txt', 'w')
 ...
