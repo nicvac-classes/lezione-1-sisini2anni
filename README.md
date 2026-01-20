@@ -70,7 +70,7 @@ In altri casi la piattaforma generetà un file di input da scaricare e richieder
 ```python
 ...
 sys.stdin = open('input_generato_dalla_piatta.txt')
-sys.stdout = open('output.txt', 'w') #output.txt da caricare insieme al sorgente.
+sys.stdout = open('output.txt', 'w') #jhjoutput.txt da caricare insieme al sorgente.
 ...
 ```
 
